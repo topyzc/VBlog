@@ -12,7 +12,7 @@ V部落是一个多用户博客管理平台，采用Vue+SpringBoot开发。
 
 ## 文章列表
 
-![文章列表](https://raw.githubusercontent.com/lenve/VBlog/master/doc/article.png)  
+![文章列表](https://raw.githubusercontent.com/topyzc/VBlog/master/doc/article.png)  
 
 ## 发表文章
 
@@ -20,15 +20,15 @@ V部落是一个多用户博客管理平台，采用Vue+SpringBoot开发。
 
 ## 用户管理
 
-![用户管理](https://raw.githubusercontent.com/lenve/VBlog/master/doc/usermana.png)  
+![用户管理](https://raw.githubusercontent.com/topyzc/VBlog/master/doc/usermana.png)  
 
 ## 栏目管理
 
-![栏目管理](https://raw.githubusercontent.com/lenve/VBlog/master/doc/category.png)  
+![栏目管理](https://raw.githubusercontent.com/topyzc/VBlog/master/doc/category.png)  
 
 ## 数据统计
 
-![数据统计](https://raw.githubusercontent.com/lenve/VBlog/master/doc/datastatistics.png)  
+![数据统计](https://raw.githubusercontent.com/topyzc/VBlog/master/doc/datastatistics.png)  
 
 # 技术栈  
 
